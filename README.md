@@ -140,32 +140,6 @@ Available menu options include:
 
 ![Vehicle Management Summary](Screenshot%202026-08-06%20152521.png)
 
-## Screenshots
-
-### Main Vehicle Rental System
-
-![Main Vehicle Rental System](screenshots/Screenshot%202026-08-06%20145706.png)
-
-### Adding a Vehicle
-
-![Adding a Vehicle](screenshots/Screenshot%202026-08-06%20150111.png)
-
-### Searching for a Vehicle
-
-![Searching for a Vehicle](screenshots/Screenshot%202026-08-06%20150209.png)
-
-### Renting a Vehicle
-
-![Renting a Vehicle](screenshots/Screenshot%202026-08-06%20150221.png)
-
-### Returning a Vehicle
-
-![Returning a Vehicle](screenshots/Screenshot%202026-08-06%20150234.png)
-
-### Vehicle List and Statistics
-
-![Vehicle List and Statistics](screenshots/Screenshot%202026-08-06%20152521.png)
-
 ## Academic Project
 
 **Student:** Mbalenhle Mdakane  
